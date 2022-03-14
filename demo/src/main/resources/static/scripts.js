@@ -38,8 +38,6 @@ function displayRandomCocktail(cocktail){
     card.innerHTML = cocktail.drinks[0].strInstructions;
     drinkSelection.appendChild(card);
 }
-
-
 /*!
 * Start Bootstrap - Agency v7.0.10 (https://startbootstrap.com/theme/agency)
 * Copyright 2013-2021 Start Bootstrap
